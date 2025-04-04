@@ -1,0 +1,15 @@
+E:\Політєх\Software design\Lab2\bin\Debug\net8.0\Lab2.exe
+E:\Політєх\Software design\Lab2\bin\Debug\net8.0\Lab2.deps.json
+E:\Політєх\Software design\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+E:\Політєх\Software design\Lab2\bin\Debug\net8.0\Lab2.dll
+E:\Політєх\Software design\Lab2\bin\Debug\net8.0\Lab2.pdb
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.dll
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.pdb
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+E:\Політєх\Software design\Lab2\obj\Debug\net8.0\ref\Lab2.dll
